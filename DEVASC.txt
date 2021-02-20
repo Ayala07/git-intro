@@ -1,2 +1,2 @@
-Primer Deploy hacia GitHub
-Segundo Deploy hacia GitHub
+Primer deploy hacia GitHub
+Segundo deploy hacia GitHub
